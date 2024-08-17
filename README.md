@@ -27,12 +27,12 @@
 
 ## Instalação
 
-### [Podes baixar o arquivo zip clicando aqui](https://github.com/claudiovictors/Sistema-de-Gerenciamanto-de-Contatos.git)
+### [Podes baixar o arquivo zip clicando aqui](https://github.com/claudiovictors/Gerenciador-Contatos.git)
 
 ### Ou podes baixar via ``GIT``
 
 ```
-git clone https://github.com/claudiovictors/Sistema-de-Gerenciamanto-de-Contatos.git
+git clone https://github.com/claudiovictors/Gerenciador-Contatos.git
 ```
 
 ### Depois de baixar o arquivo iŕa aparecer essa uma estrutura semelhante a essa
